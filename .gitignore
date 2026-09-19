@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Zensical local preview
+site/
