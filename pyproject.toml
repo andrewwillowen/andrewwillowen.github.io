@@ -1,0 +1,16 @@
+[project]
+name = "github-io"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "zensical>=0.0.63",
+]
+
+[project.scripts]
+github-io = "github_io:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
