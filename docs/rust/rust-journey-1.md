@@ -141,7 +141,7 @@ The very first exercise is automatically completed once you acknowledge the intr
 That being said, it's worth reading the contents of the first exercise, at `excercises/00_intro/intro1.rs`, as that gives a clue on how to handle the second exercise.
 
 If, like me, you find yourself passing an exercise by making a change you don't fully understand, checkout the corresponding solution at `solutions/SAME_PATH_AS_EXERCISE`.
-(It goes without saying that you should avoid looking at the solutions before trying to solve the exercise!)
+(The solution will not populate, however, until you pass the exercise.)
 
 I won't do a blow-by-blow account of how to work through the Rustlings exercises, as that would defeat the point of learning it for yourself.
 
