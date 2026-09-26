@@ -1,6 +1,6 @@
 # My Rust Journey - Part 2
 
-***[Read Part 1 here](rust-journey-2.md)***
+***[Read Part 1 here](rust-journey-1.md)***
 
 ## Learning with Rustlings, continued
 
